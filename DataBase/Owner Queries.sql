@@ -1,0 +1,2 @@
+INSERT INTO Owners (Name, CNIC, Contact) VALUES
+('Ali Khan', '42101-1111111-1', '03001234567');
